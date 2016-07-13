@@ -12,8 +12,8 @@
   <!-- Project Settings: can be modified, but the defaults should be just fine! -->
 	<PropertyGroup>
 		<BinFolder>$(MSBuildProjectDirectory)\bin</BinFolder>
-    <DnnManifestExtension>dnn</DnnManifestExtension>
-    <PackageFolder>packages</PackageFolder>
-    <PackageExtension>zip</PackageExtension>
+		<DnnManifestExtension>dnn</DnnManifestExtension>
+		<PackageFolder>packages</PackageFolder>
+		<PackageExtension>zip</PackageExtension>
 	</PropertyGroup>
 </Project>
